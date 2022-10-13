@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kumar Ranjan Pandey
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently pursuing B.E degree from Dayananda Sagar College of Engineering
+- 📫 How to reach me Email:-kranjanpandey8294@gmail.com
